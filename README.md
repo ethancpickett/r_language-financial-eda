@@ -9,14 +9,14 @@ An exploratory data analysis (EDA) and statistical modeling project engineered i
 
 ---
 
-## 💡 Project Motivation & Business Impact
+##  Project Motivation & Business Impact
 Raw financial numbers alone rarely tell the full story. Stakeholders require deep statistical insight into P&L trends, variance patterns, and cost-basis distributions to make informed operational decisions. 
 
 This project demonstrates advanced statistical computing capabilities—bridging core accounting analytics with rigorous data science. By leveraging R's robust statistical packages and custom `ggplot2` graphing frameworks, this repository transforms complex transactional datasets into clear, actionable visual narratives.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language & Environment:** R, RStudio
 * **Data Wrangling & Manipulation:** `dplyr`, `tidyr` (Tidyverse)
 * **Data Visualization:** `ggplot2` (Custom themes, multi-layered statistical plots)
@@ -24,7 +24,7 @@ This project demonstrates advanced statistical computing capabilities—bridging
 
 ---
 
-## 📂 Project Architecture
+##  Project Architecture
 ```text
 r-financial-eda/
 │
